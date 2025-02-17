@@ -16,3 +16,11 @@
 .done {
     background-color: #c2efc2;
 }
+
+.inProgress {
+    background-color: #4682b45c;
+}
+
+.hold {
+    opacity: 0.5;
+}
