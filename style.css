@@ -1,0 +1,18 @@
+#sectionArea {
+    padding:20px;
+    border-radius: 20px;
+    border:1px solid #FFD1DF;
+    background-color: #FFD1DF;
+}
+
+#sectionArea h1 {
+    text-align: center;
+    font-family: "Roboto Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.done {
+    background-color: #c2efc2;
+}
